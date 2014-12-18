@@ -1,6 +1,6 @@
 /*****************************************************************************
  *  max31855.c
- *
+ *  Version   : v0.1
  *  Created on: 15Dec, 2014
  *  Author: Ported to LPC2134 for use with T962/A Reflow Oven by Patrick Law
  *
