@@ -2,7 +2,7 @@
  *  max31855.c
  *
  *  Created on: 15Dec, 2014
- *  Author: Ported to LPC2134 for use with T962/A Reflow Oven by PWTL
+ *  Author: Ported to LPC2134 for use with T962/A Reflow Oven by Patrick Law
  *
  ********************** Original Comments ************************************
  * This is a library for the Adafruit Thermocouple Sensor w/MAX31855K
