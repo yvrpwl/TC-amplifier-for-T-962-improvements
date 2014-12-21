@@ -289,20 +289,6 @@ void ResetDevice(void)
 	WriteRegister(0xf0,reg_f0_config);
 	setClockDivider(1);		//set SPI frequency to 461KHz
 	setDataMode(SC18IS602_SPI_MODE0);	// using mode 0
-	//WriteRegister(0xf4,reg_f4_gpio_w);
-	//WriteRegister(0xF5, reg_f5_gpio_r);	// make sure GPIO data buffer is defined
-	//WriteRegister(0xf6,reg_f6_gpio_e);
-	//WriteRegister(0xf7,reg_f7_gpio_d);
-
-	//pinMode(0,INPUT);
-	//pinMode(1,INPUT);
-	//pinMode(2,INPUT);
-	//pinMode(3,INPUT);
-	//GPIOEnable(0);
-	//GPIOEnable(1);
-	//GPIOEnable(2);
-	//GPIOEnable(3);
-
 }
 /****************************************************************
  * Change Slave select pins to GPIO function
