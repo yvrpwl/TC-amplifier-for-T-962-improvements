@@ -13,6 +13,9 @@
  *
  * http://scholar.lib.vt.edu/theses/available/etd-08142006-101925/unrestricted/uWIP.pdf
  *
+ * and                  Tiequan Shao          info@sandboxelectronics.com
+ *
+ *
  * Lisence:			CC BY-NC-SA 3.0
  *
  * Please keep the above information when you use this code in your project.
